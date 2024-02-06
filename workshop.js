@@ -11,7 +11,7 @@ const freelancers = [
 
 const names = ["Tyler", "Alex", "Brandon", "Amber", "Louis", "Anthony", "Michael"];
 const occupations = ["Writer", "Programmer", "Teacher"];
-const priceRange = { min: 30, max: 75 };
+const priceRange = { min: 30, max: 120 };
 
 
 const freelanceList = document.querySelector("#freelanceList");
